@@ -20,3 +20,9 @@ treatment data :
 
 dosage data:
 {'newTrackerData' : { 'medicationName':'dosage of the medication' }}
+
+Future Work:
+
+Implement a better mapping of the data according to the doamin the data belongs to and process separately
+
+Create a work-flow with django with UI for better interaction
